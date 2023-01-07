@@ -59,6 +59,6 @@ I'm a graduate in Information Resources Management 🎓🧑🎓  from The Academ
 ### Some personal info:
 
 - 📫 &nbsp; How to reach me: Gid.Pasha2000@mail.ru.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/Gids-Github/images/CV 2.pdf).
 
 
