@@ -41,6 +41,21 @@ I'm a graduate in Information Resources Management 🎓🧑🎓  from The Academ
 
 ### My Hobbies:
 
+<table>
+  <tbody>
+    <tr>
+      <td><img height="250" width="375" src="https://brandbook.loginom.ru/attach/01-logotype/trademark_loginom/trademark_loginom@extra_large.png" alt=""></td>
+      <td><img height="250" width="375" src="https://brandbook.loginom.ru/attach/01-logotype/trademark_loginom/trademark_loginom@extra_large.png" alt=""></td>
+      <td><img height="250" width="375" src="https://brandbook.loginom.ru/attach/01-logotype/trademark_loginom/trademark_loginom@extra_large.png" alt=""></td>
+    </tr>
+    <tr>
+      <td>Ячейка 4</td>
+      <td>Ячейка 5</td>
+      <td>Ячейка 6</td>
+    </tr>    
+  </tbody>
+</table>
+
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
