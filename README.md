@@ -30,7 +30,8 @@ I'm a graduate in Information Resources Management 🎓🧑🎓  from The Academ
 <code><img height="27" src="https://appexchange.salesforce.com/partners/servlet/servlet.FileDownload?file=00P4V00000rgoDsUAI"></code>
 <code><img height="27" src="http://store-images.s-microsoft.com/image/apps.32245.13510798883380398.61d03499-1b25-4924-9207-9384fe3b5b99.3a505d26-d272-4f46-a46b-46dd22268443"></code>
 <code><img height="27" src="https://brandbook.loginom.ru/attach/01-logotype/trademark_loginom/trademark_loginom@extra_large.png"></code>
-
+<br>
+<br>
 <!---Для компактной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gids-Github&layout=compact)](https://github.com/Gids-Github/github-readme-stats)
 
