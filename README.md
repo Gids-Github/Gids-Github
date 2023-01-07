@@ -40,13 +40,12 @@ I'm a graduate in Information Resources Management 🎓🧑🎓  from The Academ
 
 
 ### My Hobbies:
-
 <table>
   <tbody>
     <tr>
-      <td align="center"><img height="" width="" src="https://seeklogo.com/images/A/adobe-illustrator-file-logo-28A52C82F5-seeklogo.com.png" alt=""></td>
-      <td align="center"><img height="250" width="375" src="https://brandbook.loginom.ru/attach/01-logotype/trademark_loginom/trademark_loginom@extra_large.png" alt=""></td>
-      <td align="center"><img height="250" width="375" src="https://brandbook.loginom.ru/attach/01-logotype/trademark_loginom/trademark_loginom@extra_large.png" alt=""></td>
+      <td text-align="center"><img height="" width="" src="https://seeklogo.com/images/A/adobe-illustrator-file-logo-28A52C82F5-seeklogo.com.png" alt=""></td>
+      <td align="center"><img height="" width="" src="https://seeklogo.com/images/T/Tree_of_Gondor-logo-2BCFB13BA7-seeklogo.com.png" alt=""></td>
+      <td align="center"><img height="" width="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt=""></td>
     </tr>
     <tr>
       <td>Graphical design</td>
