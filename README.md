@@ -44,14 +44,14 @@ I'm a graduate in Information Resources Management 🎓🧑🎓  from The Academ
 <table>
   <tbody>
     <tr>
-      <td><img height="250" width="375" src="https://brandbook.loginom.ru/attach/01-logotype/trademark_loginom/trademark_loginom@extra_large.png" alt=""></td>
-      <td><img height="250" width="375" src="https://brandbook.loginom.ru/attach/01-logotype/trademark_loginom/trademark_loginom@extra_large.png" alt=""></td>
-      <td><img height="250" width="375" src="https://brandbook.loginom.ru/attach/01-logotype/trademark_loginom/trademark_loginom@extra_large.png" alt=""></td>
+      <td align="center"><img height="" width="" src="https://seeklogo.com/images/A/adobe-illustrator-file-logo-28A52C82F5-seeklogo.com.png" alt=""></td>
+      <td align="center"><img height="250" width="375" src="https://brandbook.loginom.ru/attach/01-logotype/trademark_loginom/trademark_loginom@extra_large.png" alt=""></td>
+      <td align="center"><img height="250" width="375" src="https://brandbook.loginom.ru/attach/01-logotype/trademark_loginom/trademark_loginom@extra_large.png" alt=""></td>
     </tr>
     <tr>
-      <td>Ячейка 4</td>
-      <td>Ячейка 5</td>
-      <td>Ячейка 6</td>
+      <td>Graphical design</td>
+      <td>LOTR</td>
+      <td>3D Modelling</td>
     </tr>    
   </tbody>
 </table>
