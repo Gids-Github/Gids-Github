@@ -7,7 +7,7 @@
 
 ### Glad to see you here! 🎅
 
-I'm a graduate in Information Resources Management 🎓🧑🎓 from The Academy of Public Administration under the aegis of the President of the Republic of Belarus 🏛. My qualification is manager-economist of information system (bachelor of management). I have interests in many areas of information technology and business, study and work in different technologies and domains 💡. I like to explore new technologies and use them to solve applied problems ✨. Perhaps, my first mini online course will be launched soon 👨🏫. I'm currently into Data science and Game balance, working on my simulation models 🤓.
+I'm a graduate in Information Resources Management 🎓🧑🎓  from The Academy of Public Administration under the aegis of the President of the Republic of Belarus 🏛. My qualification is manager-economist of information system (bachelor of management). I have interests in many areas of information technology and business, study and work in different technologies and domains 💡. I like to explore new technologies and use them to solve applied problems ✨. Perhaps, my first mini online course will be launched soon 👨🏫. I'm currently into Data science and Game balance, working on my simulation models 🤓.
 
 
 
@@ -29,7 +29,7 @@ I'm a graduate in Information Resources Management 🎓🧑🎓 from The Academy
 <code><img height="27" src="https://miro.medium.com/max/518/1*FogMIj4gYwp3fTHLZuwavQ.png"></code>
 <code><img height="27" src="https://appexchange.salesforce.com/partners/servlet/servlet.FileDownload?file=00P4V00000rgoDsUAI"></code>
 <code><img height="27" src="http://store-images.s-microsoft.com/image/apps.32245.13510798883380398.61d03499-1b25-4924-9207-9384fe3b5b99.3a505d26-d272-4f46-a46b-46dd22268443"></code>
-<code><img height="27" src="https://basegroup.ru/sites/default/files/basegroup_0.png"></code>
+<code><img height="27" src="https://roi4cio.com/fileadmin/user_upload/Loginom_Company.png"></code>
 
 ### Methods and Models:
 -  &nbsp; Regression analysis.
